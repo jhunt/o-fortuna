@@ -1,0 +1,12 @@
+{
+  "name": "o-fortuna",
+  "version": "0.1.0",
+  "author": "James Hunt <james.hunt@vivanti.com>",
+  "license": "MIT",
+
+  "main": "index.js",
+
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
